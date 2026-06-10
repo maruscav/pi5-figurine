@@ -1,6 +1,14 @@
 # pi5-figurine
 Figurine font for login into Pi5
 
-https://github.com/maruscav/pi5-figurine.git
+Download Figurine
+https://raw.githubusercontent.com/maruscav/pi5-figurine/refs/heads/main/install-figurine.sh
+
+Install Figurine
 bash install-figurine.sh
-bash setup-banner.sh
+
+Download setup
+https://raw.githubusercontent.com/maruscav/pi5-figurine/refs/heads/main/setup-banner.sh
+
+Install setup
+bash install-banner.sh
